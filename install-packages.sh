@@ -4,9 +4,9 @@ apt-get update
 
 apt-get install wget curl synaptic gparted pv mosh htop desktop-base desktop-profiles devscripts dialog eject 
 
-apt-get install dictionaries-common enchant2 diffutils distro-info enscript 
+apt-get install dictionaries-common diffutils distro-info enscript 
 
-apt-get install network-manager network-manager-config-connectivity-ubuntu connman connman-ui connman-gtk connman-vpn connman-doc
+apt-get install network-manager connman connman-ui connman-gtk connman-vpn connman-doc
 
 apt-get install pekwm pekwm-themes hpanel
 
@@ -14,7 +14,7 @@ apt-get install xfwm4 xfce4 xfdesktop4 wbar
 
 apt-get install lightdm lxqt lxqt-config-l10n 
 
-apt-get install xfce4-theme-breeze greybird-gtk-theme bluebird-gtk-theme qt5-style-qvantum qt5-style-qvantum-l10n qt5-style-qvantum-themes 
+apt-get install greybird-gtk-theme bluebird-gtk-theme qt5-style-qvantum qt5-style-qvantum-l10n qt5-style-qvantum-themes 
 
 apt-get install adwaita-qt adwaita-icon-theme  
 
@@ -22,7 +22,7 @@ apt-get install caja caja-admin caja-sendto caja-dropbox mousepad cheese cheese-
 
 apt-get install # aewm++-goodies 
 
-apt-get install chromium cog # qutebrowser epiphany-browser epiphany-browser-data ?? 
+apt-get install cog # qutebrowser epiphany-browser epiphany-browser-data ?? 
 
 apt-get install # akqml # http://webcamoid.github.io/ 
 
@@ -52,7 +52,7 @@ apt-get install ca-cacert ca-certificates-mono
 
 apt-get install openssh
 
-apt-get install wireguard 
+apt-get install # wireguard 
 
 apt-get install cifs-utils 
 
@@ -60,7 +60,7 @@ apt-get install citadel-suite
 
 apt-get install claws-mail claws-mail-i18n claws-mail-plugins claws-mail-pgp-mime claws-mail-feeds-reader claws-mail-doc 
 
-apt-get install cmake cmake-data cmake-qt-gui cmake-doc 
+apt-get install cmake cmake-data cmake-doc 
 
 apt-get install codeblocks codebocks-common codeblocks-contrib 
 
