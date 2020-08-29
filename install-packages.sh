@@ -2,7 +2,7 @@
 
 apt-get update 
 
-apt-get install synaptic gparted pv mosh htop desktop-base desktop-profiles devscripts dialog eject 
+apt-get install wget curl synaptic gparted pv mosh htop desktop-base desktop-profiles devscripts dialog eject 
 
 apt-get install dictionaries-common enchant2 diffutils distro-info enscript 
 
